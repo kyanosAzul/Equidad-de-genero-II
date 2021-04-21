@@ -1,0 +1,66 @@
+body{
+	background-color: black;
+	color: #D86DEC ;
+	text-align:justify;
+	letter-spacing: .05cm;
+	line-height: .7cm;
+	margin: 1.5cm;
+} 
+
+h1{ color: #DC1515 ;
+	font-family:  'Pirata One', cursive;
+	font-size: 90px;
+	letter-spacing: .09cm;
+	text-align: center; line-height: 350px; /*alinear verticalmente*/
+	text-shadow: black 10px 10px 10px;
+	background-image: url("https://summainferno.com/wp-content/uploads/2021/03/mujeresrock.jpg"); height: 260px;
+	background-size: 575px;
+	}
+		 
+
+hr{width: 70%;
+	height:3.5px; 
+	border:solid;
+	border-color: #D86DEC ;
+	background: red;
+	border-radius: 2cm;}
+
+h2{font-family: 'Gloria Hallelujah', cursive;
+	font-size: 35px;
+	text-align: left 10%;
+	color: #DC1515;
+
+}
+
+.centrado1{text-align: center; 
+	font-size: 35px}
+
+
+h3{font-family: 'Bangers', cursive;
+	color:#F7DAFB ; }
+
+
+p{font-size: 25px;
+}
+
+.centrado{text-align: center; 
+	font-size: 25px}
+
+img{float: right;}
+
+dl{font-size: 25px}
+
+dt{font-weight: bolder;
+	list-style-type: circle;
+}
+
+img{ height: 300px;
+margin-left:50px;
+} 
+
+
+iframe{ height: 300px;
+	width: 500px;
+	margin-left: 100px;
+
+}
